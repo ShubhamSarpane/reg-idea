@@ -1,0 +1,89 @@
+body{
+	
+	/*background: rgb(192, 192, 192)!important;*/
+	/*background-image: url("HomeBackground.png");*/
+	background-image: url('/img/HomeBackground.png');
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+	
+}
+
+nav{
+	background-color: rgb(30, 0, 60, 0.7);
+
+}
+
+.center {
+  text-align: center;
+}
+
+.flex { display : flex }
+
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+
+.stickys {
+  position: fixed;
+  
+}
+.signup{
+  width: 500px;
+  margin: auto;
+  /*border: 3px solid rgb(128, 128, 128);*/
+}
+
+.bidbox{
+  width: 800px;
+  height: 80px;
+  margin: auto;
+  color: white;
+ 
+   background-color: #EAEAEA;
+  border: 3px solid rgb(128, 128, 128);
+}
+
+.otp{
+  width: 300px;
+  margin: auto;
+  color: black;
+  /*border: 3px solid rgb(128, 128, 128);*/
+}
+
+#login .container #login-row #login-column #login-box {
+  margin-top: 50px;
+  max-width: 600px;
+  height: 320px;
+  border: 1px solid #9C9C9C;
+  background-color: #EAEAEA;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -70px;
+}
+
+#c1 {
+    width: 33%; 
+    margin-left: 40px;
+    
+}
+
+#m1 {
+   
+    margin-top: 10px;
+    
+}
+
+table {
+  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0 10px;
+}
